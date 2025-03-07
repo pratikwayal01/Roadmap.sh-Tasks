@@ -26,7 +26,7 @@ chmod +x server-stats.sh
 ./server-stats.sh
 ```
 
-This project is part of [roadmap.sh](https://roadmap.sh/) DevOps projects.  
+This project is part of [roadmap.sh]([https://roadmap.sh/](https://roadmap.sh/projects/log-archive-tool)) DevOps projects.  
 
 ---
 
